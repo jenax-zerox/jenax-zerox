@@ -1,4 +1,5 @@
 # 💫 About Me:
+Data‑focused full‑stack developer with hands‑on experience building and productionizing data‑driven applications.
 Full Stack developerfrom past 2 years<br> Data science <br>data analysis 
 
 
