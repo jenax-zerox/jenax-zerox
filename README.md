@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack developer and Pursuing Bachelor’s Degree in Information Technology.<br>Currently transitioning into Data Science and Data Analysis.<br>Most of my time is spent on my laptop—learning new technologies, doing R&D, and building projects to stay up to date with modern tools and trends.
+AI & Full-stack developer and Pursuing Bachelor’s Degree in Information Technology.<br>Currently transitioning into Data Science and Data Analysis.<br>Most of my time is spent on my laptop—learning new technologies, doing R&D, and building projects to stay up to date with modern tools and trends.
 
 
 ## 🌐 Socials:
